@@ -1,4 +1,4 @@
-# Understanding Re-Ranking: A Graph Neural Network Perspective
+# Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective
 
 The re-ranking approach leverages high-confidence retrieved samples to refine retrieval results, 
 which have been widely adopted as a post-processing tool for image retrieval tasks. 
