@@ -6,6 +6,15 @@ On the Market-1501 dataset, we accelerate the re-ranking processing from **89.2s
 Similarly, we observe that our method achieves comparable or even better retrieval results on the other four image retrieval benchmarks, 
 i.e., VeRi-776, Oxford-5k, Paris-6k and University-1652, with limited time cost.
 
+## Citation
+```bibtex
+@article{zhang2020understanding,
+  title={Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective},
+  author={Xuanmeng Zhang, Minyue Jiang, Zhedong Zheng, Xiao Tan, Errui Ding, Yi Yang},
+  journal={arXiv preprint arXiv:2012.07620},
+  year={2020}
+}
+```
 
 ## Related Repos
 1. [Pedestrian Alignment Network](https://github.com/layumi/Pedestrian_Alignment) ![GitHub stars](https://img.shields.io/github/stars/layumi/Pedestrian_Alignment.svg?style=flat&label=Star)
