@@ -7,7 +7,7 @@ Similarly, we observe that our method achieves comparable or even better retriev
 i.e., VeRi-776, Oxford-5k, Paris-6k and University-1652, with limited time cost.
 
 # Implementation
-The paddlepadle implementation can be find in 
+The paddlepaddle implementation can be find in [[PaddleResearch]] (https://github.com/PaddlePaddle/Research/tree/master/CV/GNN-Re-Ranking)
 
 ## Citation
 ```bibtex
