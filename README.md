@@ -8,6 +8,7 @@ i.e., VeRi-776, Oxford-5k, Paris-6k and University-1652, with limited time cost.
 
 # Implementation
 The paddlepaddle implementation can be find in [[PaddleResearch]](https://github.com/PaddlePaddle/Research/tree/master/CV/GNN-Re-Ranking).
+
 The pytorch implementation can be find in [[Person_reID_baseline_pytorch]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GNN-Re-Ranking).
 
 ## Citation
