@@ -15,7 +15,7 @@ The pytorch version can be found in [[Person_reID_baseline_pytorch]](https://git
 ```bibtex
 @article{zhang2020understanding,
   title={Understanding Image Retrieval Re-Ranking: A Graph Neural Network Perspective},
-  author={Xuanmeng Zhang, Minyue Jiang, Zhedong Zheng, Xiao Tan, Errui Ding, Yi Yang},
+  author={Zhang, Xuanmeng and Jiang, Minyue and Zheng, Zhedong and Tan, Xiao and Ding, Errui and Yang, Yi},
   journal={arXiv preprint arXiv:2012.07620},
   year={2020}
 }
